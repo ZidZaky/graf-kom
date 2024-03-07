@@ -1,4 +1,4 @@
-# graf-kom
+# graf-kom by Zidan Irfan Zaky
 Tugas dan Materi Grafika Komputer
 
 # Tugas Quiz CLO 1 pt.1:
